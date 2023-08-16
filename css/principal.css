@@ -1,0 +1,14 @@
+header {
+    width: 1200px;
+    height: auto;
+    box-shadow: 10px 5px 10px 5px;
+    padding: 10px;
+    margin: 30px auto;
+}
+
+body {
+    background-image: url(../img/750x1334-suave-pastel-cielo-blur-blur-fondos-de-pantalla-HD-iPhone.-Fondo-de-pantalla-576x1024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
